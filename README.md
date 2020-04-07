@@ -1,1 +1,0 @@
-# sanic-handler-example
