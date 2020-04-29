@@ -1,0 +1,10 @@
+version: '3'
+services:
+  web:
+    container_name: sanic-test
+    build: 
+      context: .
+      dockerfile: ./Dockerfile
+    ports: 
+      - 5000:5000
+    command: python3 run.py
