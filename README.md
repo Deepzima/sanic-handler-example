@@ -5,4 +5,4 @@
 
 
 ### 📚 Description
-With this POC we have to test Sanic framework in a prototype microservice app. 
+With this POC we have to test Sanic framework in a prototype microservice app for gateway GHQL using. This is a way for me to familiarize myself with the language and libraries.
