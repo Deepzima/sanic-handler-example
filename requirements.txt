@@ -36,7 +36,7 @@ python-slugify==4.0.0
 requests==2.23.0
 rfc3986==1.4.0
 Rx==1.6.1
-sanic==19.12.2
+sanic==20.12.6
 sanic-devtools==0.1.0
 Sanic-GraphQL==1.1.0
 sanic-script==0.3
